@@ -1,6 +1,7 @@
 package clean.code.design_patterns.requirements;
 
 
+
 public class GameScore {
     private int score = 0;
     private static final GameScore instance = new GameScore();

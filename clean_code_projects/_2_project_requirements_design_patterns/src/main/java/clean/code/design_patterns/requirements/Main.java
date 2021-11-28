@@ -1,6 +1,7 @@
 package clean.code.design_patterns.requirements;
 import java.util.Scanner;
 
+
 //Singleton Design Pattern pentru GameScore
 //Composite Pattern pentru Weapon, Bow, Pistol, Gun si Shooting
 

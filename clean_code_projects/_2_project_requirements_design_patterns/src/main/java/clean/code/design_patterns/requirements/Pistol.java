@@ -1,5 +1,6 @@
 package clean.code.design_patterns.requirements;
 
+
 public class Pistol implements Weapon {
     @Override
     public void shoot() {
@@ -7,3 +8,4 @@ public class Pistol implements Weapon {
         gameScore.AddScore(10);
     }
 }
+
