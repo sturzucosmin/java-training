@@ -1,6 +1,5 @@
 package clean.code.design_patterns.requirements;
 
-
 public class Pistol implements Weapon {
     @Override
     public void shoot() {
